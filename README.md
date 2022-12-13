@@ -15,6 +15,6 @@ You will use python and tkinter in this project to design a user interface that 
 This prject requires python > 3.9
 Dependencies and packages can be installed by executing on the cloned directory
 
-'''
-python3 -m pip install reqs.txt
-'''
+```
+python3 -m pip install -r reqs.txt
+```
