@@ -9,6 +9,8 @@ independent axis is a hard task. What the arcball tool does is to define rotatio
 
 You will use python and tkinter in this project to design a user interface that allows to rotate a cube by means of the arcball technique. Moreover, you will work with different attitude parametrizations and the relations between them to provide to the user useful data about the body orientation.
 
+![Alt text](imgs/reference_img.png?raw=true "Title")
+
 ## Dependencies and requirements
 This prject requires python > 3.9
 Dependencies and packages can be installed by executing on the cloned directory
